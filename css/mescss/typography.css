@@ -1,0 +1,122 @@
+html {
+    font-family: "Century Gothic", sans-serif;
+    background: linear-gradient(#3D332D, #847B71);
+}
+
+h1 {
+    font-family: "Lucida Bright", serif;
+}
+
+.accueil {
+    justify-content: center;
+    color: white;
+}
+
+.premiere-page h1 {
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 53px;
+}
+
+h2 {
+    font-size: 33px;
+    line-height: 40px;
+    color: white;
+}
+
+.premiere-page p {
+    font-size: 21px;
+    line-height: 26px;
+    font-style: italic;
+}
+
+.articles-accueil h1 {
+    font-size: 87px;
+}
+
+.articles-accueil h2 {
+    font-size: 33px;
+    font-weight: bolder;
+    line-height: 40px;
+}
+
+footer {
+    font-size: 17px;
+    color: white;
+    background-color: #161616;
+}
+
+footer p:nth-of-type(1+n) {
+    font-size: 17px;
+    font-style: italic;
+}
+
+a {
+    color: #5EA5A1;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.articles h1 {
+    font-size: 50px;
+    line-height: 58px;
+    color: #5EA5A1;
+    border-bottom: #5EA5A1 solid 2px;
+    justify-content: center;
+}
+
+.articles p, .article-scientifique p {
+    font-size: 16px;
+    line-height: 30px;
+    color: white;
+}
+
+.legend, .article-suivant {
+    background-color: #323232;
+}
+
+.legend>p {
+    color: #5EA5A1;
+}
+
+.annexe {
+    background-color: #323232;
+    color: white;
+}
+
+.annexe h1 {
+    font-family: "Century Gothic", sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 56px;
+}
+
+.contact p {
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.autres-projets h2 {
+    font-size: 42px;
+    line-height: 52px;
+    font-weight: bold;
+    border-bottom: #5EA5A1 solid 2px;
+}
+
+.autres-projets p {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+blockquote {
+    font-size: 20px;
+    font-style: italic;
+}
+
+nav {
+    background-color: #C6BAAE;
+    color: #3D332D;
+}

@@ -32,6 +32,7 @@ h2 {
 
 .articles-accueil h1 {
     font-size: 87px;
+    border-bottom: white solid 1px;
 }
 
 .articles-accueil h2 {
@@ -61,7 +62,7 @@ li {
 }
 
 .articles h1 {
-    font-size: 50px;
+    font-size: 47px;
     line-height: 58px;
     color: #5EA5A1;
     border-bottom: #5EA5A1 solid 2px;
@@ -80,6 +81,7 @@ li {
 
 .legend>p {
     color: #5EA5A1;
+    border-bottom: #5EA5A1 solid 1px;
 }
 
 .annexe {

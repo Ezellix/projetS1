@@ -1,0 +1,8 @@
+main img {
+    max-width: 100%;
+    height: auto;
+}
+
+nav, h1, p, h2 {
+    padding: 6px;
+}

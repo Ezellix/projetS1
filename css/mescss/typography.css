@@ -133,3 +133,19 @@ header {
     background-color: #C6BAAE;
     font-size: 1.8rem;
 }
+
+.menu {
+    font-size: 2.6rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.menu li {
+    border-bottom: #5EA5A1 solid 1px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-lien-secondaire {
+    background-color: #161616;
+}

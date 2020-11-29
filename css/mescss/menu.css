@@ -25,3 +25,12 @@
 .nav-toggle-bar::after {
     top: 10px;
 }
+
+.menu {
+    background-color: #323232;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}

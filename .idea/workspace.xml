@@ -62,7 +62,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605778815633</updated>
       <workItem from="1605778816728" duration="21000" />
-      <workItem from="1605778848572" duration="4703000" />
+      <workItem from="1605778848572" duration="5821000" />
+      <workItem from="1605811631204" duration="3000" />
+      <workItem from="1606670246538" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605782607676</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments">
+      <created>1605783888391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605783888391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,18 +117,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS)." />
     <MESSAGE value="&lt;br&gt; à la place de certains &lt;p&gt;" />
     <MESSAGE value="ajout de border-bottoms" />
     <MESSAGE value="ajout d'hyperlien" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout d'hyperlien" />
+    <MESSAGE value="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605782613105">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605783899494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605782613105" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605783899494" />
   </component>
 </project>

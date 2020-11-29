@@ -1,5 +1,12 @@
 html {
+    font-size: 62.5%;
+}
+
+body {
     font-family: "Century Gothic", sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+    font-variant: normal;
     background: linear-gradient(#3D332D, #847B71);
 }
 
@@ -13,42 +20,42 @@ h1 {
 }
 
 .premiere-page h1 {
-    font-size: 45px;
+    font-size: 4.5rem;
     font-weight: bold;
-    line-height: 53px;
+    line-height: 5.3rem;
 }
 
 h2 {
-    font-size: 33px;
-    line-height: 40px;
+    font-size: 3.3rem;
+    line-height: 4rem;
     color: white;
 }
 
 .premiere-page p {
-    font-size: 21px;
-    line-height: 26px;
+    font-size: 2.1rem;
+    line-height: 2.6rem;
     font-style: italic;
 }
 
 .articles-accueil h1 {
-    font-size: 87px;
+    font-size: 8.7rem;
     border-bottom: white solid 1px;
 }
 
 .articles-accueil h2 {
-    font-size: 33px;
+    font-size: 3.3rem;
     font-weight: bolder;
-    line-height: 40px;
+    line-height: 4rem;
 }
 
 footer {
-    font-size: 17px;
+    font-size: 1.7rem;
     color: white;
     background-color: #161616;
 }
 
 footer p:nth-of-type(1+n) {
-    font-size: 17px;
+    font-size: 1.7rem;
     font-style: italic;
 }
 
@@ -66,8 +73,8 @@ li {
 }
 
 .articles h1 {
-    font-size: 47px;
-    line-height: 58px;
+    font-size: 4.7rem;
+    line-height: 5.8rem;
     color: #5EA5A1;
     border-bottom: #5EA5A1 solid 2px;
     justify-content: center;
@@ -96,33 +103,33 @@ li {
 .annexe h1 {
     font-family: "Century Gothic", sans-serif;
     font-weight: bold;
-    font-size: 45px;
-    line-height: 56px;
+    font-size: 4.5rem;
+    line-height: 5.6rem;
 }
 
 .contact p {
-    font-size: 22px;
-    line-height: 27px;
+    font-size: 2.2rem;
+    line-height: 2.7rem;
 }
 
 .autres-projets h2 {
-    font-size: 42px;
-    line-height: 52px;
+    font-size: 4.2rem;
+    line-height: 5.2rem;
     font-weight: bold;
     border-bottom: #5EA5A1 solid 2px;
 }
 
 .autres-projets p {
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 2rem;
+    line-height: 2.4rem;
 }
 
 blockquote {
-    font-size: 20px;
+    font-size: 2rem;
     font-style: italic;
 }
 
 nav {
     background-color: #C6BAAE;
-    font-size: 18px;
+    font-size: 1.8rem;
 }

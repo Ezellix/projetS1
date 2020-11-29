@@ -5,9 +5,10 @@ main img {
 
 header {
     position: relative;
+    padding: 4px 0 0 4px;
 }
 
-nav, h1, p, h2 {
+h1, p, h2 {
     padding: 4px 6px 0;
 }
 
@@ -19,6 +20,7 @@ header p {
     position: absolute;
     top: 0;
     left: 75px;
+    padding: 0;
 }
 
 header ul {

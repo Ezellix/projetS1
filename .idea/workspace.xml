@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article-scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/article-scientifique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
@@ -39,6 +40,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -51,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/Desktop/ProjetS1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +73,7 @@
       <workItem from="1605778816728" duration="21000" />
       <workItem from="1605778848572" duration="5821000" />
       <workItem from="1605811631204" duration="3000" />
-      <workItem from="1606670246538" duration="1889000" />
+      <workItem from="1606670246538" duration="2979000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -108,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606671480615</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Typo: px en rem">
+      <created>1606672163627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606672163627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modifs nav html">
+      <created>1606672526298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606672526298</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +156,9 @@
     <MESSAGE value="ajout d'hyperlien" />
     <MESSAGE value="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments" />
     <MESSAGE value="Modifs nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifs nav" />
+    <MESSAGE value="Typo: px en rem" />
+    <MESSAGE value="modifs nav html" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifs nav html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605783899494">

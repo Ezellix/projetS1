@@ -45,3 +45,51 @@ header p {
 .menu-lien-secondaire {
     padding: 10px 0;
 }
+
+.premiere-page {
+    background-image: url("../../img/hermessage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 87% 00%;
+    padding: 50px 0 240px;
+}
+
+.premiere-page h1 {
+    margin-top: 0;
+}
+
+.articles-accueil-her {
+    background-image: url("../../img/theodorepc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 5% 50%;
+    padding: 50px 0 325px;
+}
+
+.articles-accueil-pollution {
+    background-image: url("../../img/itservers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 40% 50%;
+    padding: 50px 0 375px;
+}
+
+.articles-accueil-solution {
+    background-image: url("../../img/happyclouds.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding: 50px 0 275px;
+}
+
+footer p:last-of-type {
+    margin-bottom: 0;
+}
+
+footer p:first-of-type {
+    margin-top: 0;
+}
+
+.accueil {
+    text-align: center;
+}

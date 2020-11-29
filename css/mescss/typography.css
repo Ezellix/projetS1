@@ -23,6 +23,19 @@ h1 {
     font-size: 4.5rem;
     font-weight: bold;
     line-height: 5.3rem;
+    border-bottom: white solid 1px;
+}
+
+.premiere-page p:first-of-type {
+    font-family: "Lucida Bright", serif;
+    font-size: 4.5rem;
+    font-weight: bold;
+    line-height: 5.3rem;
+    font-style: normal;
+}
+
+.premiere-page h2 {
+    font-weight: normal;
 }
 
 h2 {
@@ -37,12 +50,18 @@ h2 {
     font-style: italic;
 }
 
-.articles-accueil h1 {
+.vignette h1 {
     font-size: 8.7rem;
+    font-weight: normal;
     border-bottom: white solid 1px;
 }
 
-.articles-accueil h2 {
+.articles-accueil-pollution h1 {
+    font-size: 5.6rem;
+}
+
+.vignette h2>a {
+    color: white;
     font-size: 3.3rem;
     font-weight: bolder;
     line-height: 4rem;

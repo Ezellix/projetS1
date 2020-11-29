@@ -22,7 +22,7 @@
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1605778816728" duration="21000" />
       <workItem from="1605778848572" duration="5821000" />
       <workItem from="1605811631204" duration="3000" />
-      <workItem from="1606670246538" duration="13717000" />
+      <workItem from="1606670246538" duration="15103000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606684526073</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="text-indent sur les 1ers paragraphes">
+      <created>1606685846311</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606685846311</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +214,8 @@
     <MESSAGE value="images accueil" />
     <MESSAGE value="images accueil fond sombre" />
     <MESSAGE value="menu fixe" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu fixe" />
+    <MESSAGE value="text-indent sur les 1ers paragraphes" />
+    <option name="LAST_COMMIT_MESSAGE" value="text-indent sur les 1ers paragraphes" />
   </component>
   <component name="WindowStateProjectService">
     <state width="498" height="446" key="SwitcherDM" timestamp="1606683034095">

@@ -91,7 +91,7 @@ header p {
 }
 
 .articles-accueil-solution {
-    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/happyclouds.jpg") no-repeat 50% 50%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/couldsmild.jpg") no-repeat 50% 50%;
     background-size: cover;
     padding: 50px 0 275px;
 }
@@ -122,14 +122,64 @@ footer p:first-of-type {
     text-align: center;
 }
 
-.article-her p:nth-of-type(1), .article-her p:nth-of-type(2), .article-her p:nth-of-type(6), .article-her p:nth-of-type(10), .article-her p:nth-of-type(12) {
+.article-her p:nth-of-type(1), .article-her p:nth-of-type(2), .article-her p:nth-of-type(6), .article-her p:nth-of-type(10), .article-her p:nth-of-type(12),
+.article-pollution p:nth-of-type(1), .article-pollution p:nth-of-type(3), .article-pollution p:nth-of-type(10), .article-pollution p:nth-of-type(14), .article-pollution p:nth-of-type(22),
+.article-solution p:nth-of-type(1), .article-solution p:nth-of-type(3), .article-solution p:nth-of-type(5), .article-solution p:nth-of-type(6), .article-solution p:nth-of-type(8),
+.article-solution p:nth-of-type(10), .article-solution p:nth-of-type(12), .article-solution p:nth-of-type(13), .article-solution p:nth-of-type(15), .article-solution p:nth-of-type(20),
+.article-solution p:nth-of-type(22), .article-solution p:nth-of-type(23), .article-solution p:nth-of-type(26), .article-solution p:nth-of-type(28), .article-solution p:nth-of-type(33) {
     text-indent: 2rem;
 }
 
-.article-pollution p:nth-of-type(1), .article-pollution p:nth-of-type(3), .article-pollution p:nth-of-type(10), .article-pollution p:nth-of-type(14), .article-pollution p:nth-of-type(22)  {
-    text-indent: 2rem;
+.solution-suppr {
+    background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url("../../img/mysapce.jpg") no-repeat 50%;
+    background-size: 150%;
 }
 
-.article-solution p:nth-of-type(1), .article-solution p:nth-of-type(3), .article-solution p:nth-of-type(5), .article-solution p:nth-of-type(6), .article-solution p:nth-of-type(8), .article-solution p:nth-of-type(10), .article-solution p:nth-of-type(12), .article-solution p:nth-of-type(13), .article-solution p:nth-of-type(15), .article-solution p:nth-of-type(20), .article-solution p:nth-of-type(22), .article-solution p:nth-of-type(23), .article-solution p:nth-of-type(26), .article-solution p:nth-of-type(28), .article-solution p:nth-of-type(33) {
-    text-indent: 2rem;
+.solution-tri {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/toomanyemails.jpg") no-repeat;
+    background-size: 130%;
+}
+
+.solution-block {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/adblocker.jpg") no-repeat;
+    background-size: 110%;
+}
+
+.solution-lum {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/toobright.jpg") no-repeat;
+    background-size: 100%;
+}
+
+.solution-cloud {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/cloud.png") no-repeat;
+    background-size: 100%;
+}
+
+.solution-track {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/cookie-checker.jpg") no-repeat;
+    background-size: 125%;
+}
+
+.solution-dl {
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url("../../img/download.jpg") no-repeat;
+    background-size: 140%;
+}
+
+.solution-appr {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/codeside.jpg") no-repeat;
+    background-size: 130%;
+}
+
+.solution-nimp {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/header-chat-box.png") no-repeat;
+    background-size: 200%;
+}
+
+.solution-opti {
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/codeoptimization.png") no-repeat;
+    background-size: 150%;
+}
+
+.solutions {
+    padding: 50px 20px;
 }

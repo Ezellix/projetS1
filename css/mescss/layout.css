@@ -122,14 +122,6 @@ footer p:first-of-type {
     text-align: center;
 }
 
-.article-her p:nth-of-type(1), .article-her p:nth-of-type(2), .article-her p:nth-of-type(6), .article-her p:nth-of-type(10), .article-her p:nth-of-type(12),
-.article-pollution p:nth-of-type(1), .article-pollution p:nth-of-type(3), .article-pollution p:nth-of-type(10), .article-pollution p:nth-of-type(14), .article-pollution p:nth-of-type(22),
-.article-solution p:nth-of-type(1), .article-solution p:nth-of-type(3), .article-solution p:nth-of-type(5), .article-solution p:nth-of-type(6), .article-solution p:nth-of-type(8),
-.article-solution p:nth-of-type(10), .article-solution p:nth-of-type(12), .article-solution p:nth-of-type(13), .article-solution p:nth-of-type(15), .article-solution p:nth-of-type(20),
-.article-solution p:nth-of-type(22), .article-solution p:nth-of-type(23), .article-solution p:nth-of-type(26), .article-solution p:nth-of-type(28), .article-solution p:nth-of-type(33) {
-    text-indent: 2rem;
-}
-
 .solution-suppr {
     background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)), url("../../img/mysapce.jpg") no-repeat 50%;
     background-size: 150%;
@@ -182,4 +174,18 @@ footer p:first-of-type {
 
 .solutions {
     padding: 50px 20px;
+}
+
+.legend p {
+    margin-top: -2px;
+}
+
+.indent {
+    text-indent: 2rem;
+}
+
+.article-solution img:nth-of-type(2) {
+    padding-bottom: 2px;
+    display: block;
+    margin: 0 auto;
 }

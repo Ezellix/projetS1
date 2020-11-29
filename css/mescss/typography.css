@@ -142,8 +142,6 @@ header {
 
 .menu li {
     border-bottom: #5EA5A1 solid 1px;
-    display: flex;
-    justify-content: center;
 }
 
 .menu-lien-secondaire {

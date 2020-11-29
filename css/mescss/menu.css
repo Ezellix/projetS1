@@ -7,6 +7,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 2;
 }
 
 .nav-toggle-bar, .nav-toggle-bar::before, .nav-toggle-bar::after {
@@ -16,6 +17,7 @@
     height: 3px;
     position: absolute;
     left: 0;
+    transition: all .4s ease-in-out;
 }
 
 .nav-toggle-bar::before {
@@ -33,4 +35,24 @@
     left: 0;
     bottom: 0;
     right: 0;
+    transform: translateX(100vw);
+    transition: all .6s;
+    z-index: 1;
+}
+
+.menu-open .menu {
+    transform: translateX(0);
+}
+
+.menu-open, .menu-open body {
+    overflow: hidden;
+}
+
+.menu-open .nav-toggle-bar {
+    transform: rotate(135deg);
+}
+
+.menu-open .nav-toggle-bar::before, .menu-open .nav-toggle-bar::after {
+    transform: rotate(90deg);
+    top: 0;
 }

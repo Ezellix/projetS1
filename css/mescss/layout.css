@@ -115,3 +115,21 @@ footer p:first-of-type {
 .vignette {
     padding-top: 200px;
 }
+
+.articles h1 {
+    padding: 20px 0 10px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.article-her p:nth-of-type(1), .article-her p:nth-of-type(2), .article-her p:nth-of-type(6), .article-her p:nth-of-type(10), .article-her p:nth-of-type(12) {
+    text-indent: 2rem;
+}
+
+.article-pollution p:nth-of-type(1), .article-pollution p:nth-of-type(3), .article-pollution p:nth-of-type(10), .article-pollution p:nth-of-type(14), .article-pollution p:nth-of-type(22)  {
+    text-indent: 2rem;
+}
+
+.article-solution p:nth-of-type(1), .article-solution p:nth-of-type(3), .article-solution p:nth-of-type(5), .article-solution p:nth-of-type(6), .article-solution p:nth-of-type(8), .article-solution p:nth-of-type(10), .article-solution p:nth-of-type(12), .article-solution p:nth-of-type(13), .article-solution p:nth-of-type(15), .article-solution p:nth-of-type(20), .article-solution p:nth-of-type(22), .article-solution p:nth-of-type(23), .article-solution p:nth-of-type(26), .article-solution p:nth-of-type(28), .article-solution p:nth-of-type(33) {
+    text-indent: 2rem;
+}

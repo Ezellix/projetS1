@@ -23,7 +23,6 @@ h1 {
     font-size: 4.5rem;
     font-weight: bold;
     line-height: 5.3rem;
-    border-bottom: white solid 1px;
 }
 
 .premiere-page p:first-of-type {
@@ -53,7 +52,6 @@ h2 {
 .vignette h1 {
     font-size: 8.7rem;
     font-weight: normal;
-    border-bottom: white solid 1px;
 }
 
 .articles-accueil-pollution h1 {

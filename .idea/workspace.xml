@@ -21,7 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article-scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/article-scientifique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/her.html" beforeDir="false" afterPath="$PROJECT_DIR$/her.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +73,7 @@
       <workItem from="1606670246538" duration="16576000" />
       <workItem from="1606733562700" duration="4000" />
       <workItem from="1606944681596" duration="131000" />
-      <workItem from="1606987174069" duration="1682000" />
+      <workItem from="1606987174069" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -202,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606988254412</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ajout target=&quot;_blank&quot; sur les liens sortants">
+      <created>1606989183987</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606989183987</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +254,8 @@
     <MESSAGE value="images solutions" />
     <MESSAGE value="simplification indent" />
     <MESSAGE value="Ajout icone onglet de navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout icone onglet de navigation" />
+    <MESSAGE value="ajout target=&quot;_blank&quot; sur les liens sortants" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout target=&quot;_blank&quot; sur les liens sortants" />
   </component>
   <component name="WindowStateProjectService">
     <state width="498" height="446" key="SwitcherDM" timestamp="1606683034095">

@@ -66,13 +66,13 @@ h2 {
 }
 
 footer {
-    font-size: 1.7rem;
+    font-size: 1.28rem;
     color: white;
     background-color: #161616;
 }
 
-footer p:nth-of-type(1+n) {
-    font-size: 1.7rem;
+footer p:nth-of-type(2) {
+    font-size: 1.28rem;
     font-style: italic;
 }
 
@@ -163,4 +163,10 @@ header {
 
 .menu-lien-secondaire {
     background-color: #161616;
+}
+
+.article-suivant {
+    padding: 10px 6px 10px 6px;
+    font-size: 2rem;
+    justify-content: center;
 }

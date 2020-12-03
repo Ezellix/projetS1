@@ -193,3 +193,8 @@ footer p:first-of-type {
 video {
     max-width: 100%;
 }
+
+article h1 {
+    margin-left: 58px;
+    margin-right: 58px;
+}

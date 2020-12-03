@@ -198,3 +198,9 @@ article h1 {
     margin-left: 58px;
     margin-right: 58px;
 }
+
+.vignette h2::after {
+    content: url("../../img/icon flêche blanc.png");
+    display: block;
+    padding-top: 30px;
+}

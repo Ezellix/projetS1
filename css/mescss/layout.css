@@ -53,10 +53,8 @@ header p {
 }
 
 .premiere-page {
-    background-image: url("../../img/hermessage.jpg");
-    background-repeat: no-repeat;
+    background: url("../../img/hermessage.jpg") no-repeat 87% 100%;
     background-size: cover;
-    background-position: 87% 00%;
     padding: 50px 0 150px;
 }
 
@@ -94,10 +92,6 @@ header p {
     background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/couldsmild.jpg") no-repeat 50% 50%;
     background-size: cover;
     padding: 50px 0 275px;
-}
-
-.vignette h1, .vignette a {
-    filter: blur(0);
 }
 
 footer p:last-of-type {

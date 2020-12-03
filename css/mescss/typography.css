@@ -168,7 +168,7 @@ header {
 }
 
 .article-suivant {
-    padding: 10px 6px 10px 6px;
+    padding: 1px;
     font-size: 2rem;
     text-align: center;
     font-weight: bold;
@@ -176,4 +176,19 @@ header {
 
 .accueil a {
     color: white;
+}
+
+.annexe.contact p {
+    font-size: 1.8rem;
+}
+
+.annexe.contact p:last-of-type {
+    font-size: 1.5rem;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+.annexe.contact h1, .annexe.autres-projets h1 {
+    text-align: center;
 }

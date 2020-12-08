@@ -193,11 +193,24 @@ header {
     text-align: center;
 }
 
-.article-suivant {
+aside {
     border-bottom: white solid 1px;
 }
 
 footer a {
     color: white;
     font-weight: bold;
+}
+
+input[type=text] {
+    background-color: #323232;
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+input[type=submit] {
+    background-color: #161616;
+    color: white;
+    border: 2px solid white;
+    border-radius: 4px;
 }

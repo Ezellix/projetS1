@@ -20,10 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/glitch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/Bande-annonce.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article-scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/article-scientifique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/her.html" beforeDir="false" afterPath="$PROJECT_DIR$/her.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/style.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +65,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Desktop/ProjetS1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,7 +83,12 @@
       <workItem from="1606670246538" duration="16576000" />
       <workItem from="1606733562700" duration="4000" />
       <workItem from="1606944681596" duration="131000" />
-      <workItem from="1606987174069" duration="6249000" />
+      <workItem from="1606987174069" duration="6425000" />
+      <workItem from="1607075778166" duration="15000" />
+      <workItem from="1607085197991" duration="41000" />
+      <workItem from="1607189846019" duration="1565000" />
+      <workItem from="1607439382177" duration="4000" />
+      <workItem from="1607447484974" duration="4223000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -257,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606991701077</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="formulaire">
+      <created>1606993640718</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606993640718</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +299,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ajout de border-bottoms" />
     <MESSAGE value="ajout d'hyperlien" />
     <MESSAGE value="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments" />
     <MESSAGE value="Modifs nav" />
@@ -302,17 +323,26 @@
     <MESSAGE value="modif emplacement liens" />
     <MESSAGE value="fix background image" />
     <MESSAGE value="fleches navigation secondaire + modif liens" />
-    <option name="LAST_COMMIT_MESSAGE" value="fleches navigation secondaire + modif liens" />
+    <MESSAGE value="formulaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="formulaire" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607449555275" />
+    <state x="-810" y="707" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607451763902">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-810" y="707" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607451763902" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606683034095">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1606990861116">
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1606993644723">
       <screen x="-1080" y="0" width="1080" height="1920" />
     </state>
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1606990861116" />
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1606993644723" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>
 </project>

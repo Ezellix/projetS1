@@ -21,7 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article-scientifique.html" beforeDir="false" afterPath="$PROJECT_DIR$/article-scientifique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/her.html" beforeDir="false" afterPath="$PROJECT_DIR$/her.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +86,7 @@
       <workItem from="1607634469695" duration="2166000" />
       <workItem from="1607689997922" duration="34000" />
       <workItem from="1607705216979" duration="382000" />
-      <workItem from="1607790631927" duration="122000" />
+      <workItem from="1607790631927" duration="1463000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -306,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607636491515</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="champs obligatoires formulaire">
+      <created>1607790913498</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607790913498</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +339,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ajout menu.css" />
     <MESSAGE value="réagencement menu" />
     <MESSAGE value="intégration menu toggle" />
     <MESSAGE value="menu toggle" />
@@ -351,7 +363,8 @@
     <MESSAGE value="mise de mots en gras" />
     <MESSAGE value="mise à jour h3 h4" />
     <MESSAGE value="fix formulaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix formulaire" />
+    <MESSAGE value="champs obligatoires formulaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="champs obligatoires formulaire" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">

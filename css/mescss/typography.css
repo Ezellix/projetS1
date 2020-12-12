@@ -139,7 +139,7 @@ li {
 }
 
 .autres-projets p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 2.4rem;
 }
 
@@ -222,4 +222,13 @@ input[type=submit] {
 
 .carousel p {
     font-size: 1.5rem;
+}
+
+.autres-projets .carousel p {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.autres-projets .carousel {
+    background-color: #161616;
 }

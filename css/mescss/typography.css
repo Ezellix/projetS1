@@ -214,3 +214,12 @@ input[type=submit] {
     border: 2px solid white;
     border-radius: 4px;
 }
+
+.carousel {
+    background-color: #323232;
+    color: white;
+}
+
+.carousel p {
+    font-size: 1.5rem;
+}

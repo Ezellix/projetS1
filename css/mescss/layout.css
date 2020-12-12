@@ -277,3 +277,37 @@ input[type=text] {
 form {
     padding-top: 10px;
 }
+
+.carousel {
+    padding: 2rem 0;
+}
+
+.carousel ul {
+    padding: 0;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+.carousel img {
+    max-width: 100%;
+    height: auto;
+}
+
+.carousel li {
+    flex: 1 0 22rem;
+    margin-right: 1.8rem;
+    scroll-snap-align: center;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #5EA5A1;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: white;
+}
+
+::-webkit-scrollbar {
+    height: 2px;
+}

@@ -1,5 +1,6 @@
-html {
-    max-width: 1000px;
+html, header {
+    max-width: 500px;
+    margin: auto;
 }
 
 main img {
@@ -12,6 +13,11 @@ header {
     position: fixed;
     padding: 4px 0 0 4px;
     top: 0;
+    z-index: 2;
+}
+
+video {
+    z-index: 1;
 }
 
 body {

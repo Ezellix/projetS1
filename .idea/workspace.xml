@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/projet-maelle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/projet-maelle.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/projet-maelle.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +82,7 @@
       <workItem from="1607790631927" duration="9542000" />
       <workItem from="1607811054602" duration="1629000" />
       <workItem from="1607813614121" duration="107000" />
-      <workItem from="1607864105463" duration="12351000" />
-    </task>
-    <task id="LOCAL-00004" summary="ajout d'hyperlien">
-      <created>1605782607676</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1605782607676</updated>
+      <workItem from="1607864105463" duration="12972000" />
     </task>
     <task id="LOCAL-00005" summary="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments">
       <created>1605783888391</created>
@@ -429,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607876654686</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="fix projets">
+      <created>1607881406383</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1607881406383</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +447,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="formulaire" />
     <MESSAGE value="modif footer + vidéo" />
     <MESSAGE value="modif contact" />
     <MESSAGE value="mise de mots en gras" />
@@ -474,7 +471,8 @@
     <MESSAGE value="fix flèche + textarea" />
     <MESSAGE value="fix flèche" />
     <MESSAGE value="fix carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix carousel" />
+    <MESSAGE value="fix projets" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix projets" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">
@@ -489,10 +487,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607876678868">
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607881411470">
       <screen x="-1080" y="0" width="1080" height="1920" />
     </state>
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607876678868" />
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607881411470" />
     <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1607802684366" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>

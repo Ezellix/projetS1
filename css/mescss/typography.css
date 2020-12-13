@@ -140,8 +140,12 @@ li {
 }
 
 blockquote {
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-style: italic;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
 }
 
 header {
@@ -189,10 +193,6 @@ header {
     text-align: center;
 }
 
-aside {
-    border-bottom: white solid 1px;
-}
-
 footer a {
     color: white;
     font-weight: bold;
@@ -227,6 +227,8 @@ input[type=submit] {
 
 .autres-projets .carousel {
     background-color: #161616;
+    color: #5EA5A1;
+    font-weight: bold;
 }
 
 .contrast {

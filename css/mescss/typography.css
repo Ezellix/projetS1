@@ -199,9 +199,10 @@ footer a {
 }
 
 input[type=text] {
-    background-color: #323232;
-    border: none;
+    background-color: #eeeeee;
+    border: #eeeeee;
     border-bottom: 1px solid white;
+    border-radius: 15px;
 }
 
 input[type=submit] {

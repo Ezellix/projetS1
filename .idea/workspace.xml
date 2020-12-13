@@ -21,8 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <workItem from="1607790631927" duration="9542000" />
       <workItem from="1607811054602" duration="1629000" />
       <workItem from="1607813614121" duration="107000" />
-      <workItem from="1607864105463" duration="7508000" />
+      <workItem from="1607864105463" duration="8706000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -401,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607870669733</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="fix layout solutions">
+      <created>1607871692480</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1607871692480</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +429,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix liens" />
     <MESSAGE value="style footer et h1" />
     <MESSAGE value="fleches page d'accueil" />
     <MESSAGE value="modif emplacement liens" />
@@ -446,7 +453,8 @@
     <MESSAGE value="index dynamique" />
     <MESSAGE value="redesign illustrations" />
     <MESSAGE value="redesign projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="redesign projets" />
+    <MESSAGE value="fix layout solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix layout solutions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">

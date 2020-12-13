@@ -432,7 +432,8 @@ footer i[class="far fa-envelope"] {
 .annexe .carousel img {
     display: block;
     margin: auto;
-    height: 75%;
+    height: 150px;
+    width: auto;
     vertical-align: middle;
 }
 

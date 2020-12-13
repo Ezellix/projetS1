@@ -82,14 +82,7 @@
       <workItem from="1607790631927" duration="9542000" />
       <workItem from="1607811054602" duration="1629000" />
       <workItem from="1607813614121" duration="107000" />
-      <workItem from="1607864105463" duration="12972000" />
-    </task>
-    <task id="LOCAL-00005" summary="ajout &lt;meta&gt; pour affichage mobile + padding sur les éléments">
-      <created>1605783888391</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1605783888391</updated>
+      <workItem from="1607864105463" duration="13718000" />
     </task>
     <task id="LOCAL-00006" summary="Modifs nav">
       <created>1606671480615</created>
@@ -427,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607881406383</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="fix projets">
+      <created>1607882305028</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1607882305028</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,10 +487,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607881411470">
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607882311104">
       <screen x="-1080" y="0" width="1080" height="1920" />
     </state>
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607881411470" />
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607882311104" />
     <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1607802684366" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>

@@ -436,3 +436,7 @@ footer i[class="far fa-envelope"] {
     height: 75%;
     vertical-align: middle;
 }
+
+.annexe.contact {
+    padding-bottom: 25px;
+}

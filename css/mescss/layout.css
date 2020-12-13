@@ -88,20 +88,14 @@ header p {
 
 .articles-accueil-her {
     background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/theodorepc.jpg") no-repeat 9% 50%;;
-    background-size: cover;
-    padding: 50px 0 325px;
 }
 
 .articles-accueil-pollution {
     background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/itservers.jpg") no-repeat 40% 50%;
-    background-size: cover;
-    padding: 50px 0 375px;
 }
 
 .articles-accueil-solution {
     background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../../img/couldsmild.jpg") no-repeat 50% 50%;
-    background-size: cover;
-    padding: 50px 0 275px;
 }
 
 footer p:last-of-type {
@@ -118,7 +112,14 @@ footer p:first-of-type {
 }
 
 .vignette {
-    padding-top: 200px;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 85px;
+    border-top: #323232 solid 10px;
+}
+
+.vignette:last-of-type {
+    border-bottom: #323232 solid 10px;
 }
 
 .articles h1 {
@@ -204,10 +205,16 @@ article h1 {
     margin-right: 58px;
 }
 
+.vignette h2 {
+    position: relative;
+}
+
 .vignette h2::after {
     content: url("../../img/icon flêche blanc.png");
+    position: absolute;
     display: block;
     padding-top: 30px;
+    animation: MoveLeftRight 3s linear infinite;
 }
 
 .article-suivant p::after {
@@ -326,4 +333,47 @@ footer i[class="far fa-envelope"] {
     top: 1rem;
     right: 3.5rem;
     font-size: 2.5rem;
+}
+
+.fleche-bas, .fleche-bas::before {
+    content: "";
+    background-color: white;
+    width: 10%;
+    height: 3px;
+    position: absolute;
+    left: 50%;
+    bottom: 10%;
+    animation: MoveUpDown 2.2s linear infinite;
+}
+
+.fleche-bas::before {
+    width: 100%;
+    transform: rotate(90deg);
+    top: 18px;
+    left: 18px;
+}
+
+.fleche-bas {
+    transform: rotate(135deg);
+}
+
+@keyframes MoveUpDown {
+    0%, 100% {
+        bottom: 80px;
+    }
+    50% {
+        bottom: 105px;
+    }
+}
+
+@keyframes MoveLeftRight {
+    0% {
+        left: 42%;
+    }
+    50%{
+        left : 44%;
+    }
+    100%{
+        left: 42%;
+    }
 }

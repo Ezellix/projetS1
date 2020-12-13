@@ -52,17 +52,13 @@ h2, h3, h4 {
 }
 
 .vignette h1 {
-    font-size: 8.7rem;
+    font-size: 5.8rem;
     font-weight: normal;
-}
-
-.articles-accueil-pollution h1 {
-    font-size: 5.6rem;
 }
 
 .vignette h2>a {
     color: white;
-    font-size: 3.3rem;
+    font-size: 3rem;
     font-weight: bolder;
     line-height: 4rem;
 }

@@ -22,7 +22,8 @@
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sitemobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,8 @@
       <workItem from="1607705216979" duration="382000" />
       <workItem from="1607790631927" duration="9542000" />
       <workItem from="1607811054602" duration="1629000" />
-      <workItem from="1607813614121" duration="23000" />
+      <workItem from="1607813614121" duration="107000" />
+      <workItem from="1607864105463" duration="2589000" />
     </task>
     <task id="LOCAL-00001" summary="Nouveau dossier créé pour pouvoir faire des commits directement sur github. Travail fait jusqu'à maintenant : pages HTML, typographies et couleurs (CSS).">
       <created>1605779000174</created>
@@ -372,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607812683512</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="fix width">
+      <created>1607813705237</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1607813705237</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,7 +401,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="images solutions" />
     <MESSAGE value="simplification indent" />
     <MESSAGE value="Ajout icone onglet de navigation" />
     <MESSAGE value="ajout target=&quot;_blank&quot; sur les liens sortants" />
@@ -417,7 +425,8 @@
     <MESSAGE value="modif légendes" />
     <MESSAGE value="interview" />
     <MESSAGE value="display desktop" />
-    <option name="LAST_COMMIT_MESSAGE" value="display desktop" />
+    <MESSAGE value="fix width" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix width" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">
@@ -432,10 +441,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607812688555">
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607813708889">
       <screen x="-1080" y="0" width="1080" height="1920" />
     </state>
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607812688555" />
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607813708889" />
     <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1607802684366" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>

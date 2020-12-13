@@ -383,10 +383,10 @@ footer i[class="far fa-envelope"] {
 
 @keyframes MoveUpDown {
     0%, 100% {
-        bottom: 45px;
+        bottom: 30px;
     }
     50% {
-        bottom: 70px;
+        bottom: 45px;
     }
 }
 

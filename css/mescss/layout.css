@@ -286,9 +286,8 @@ input[type=text] {
 }
 
 textarea {
-    margin-top: 15px;
-    margin-bottom: 25px;
-    margin-left: 8px;
+    display: block;
+    margin: 15px auto 25px;
     padding-left: 15px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -367,7 +366,7 @@ footer i[class="far fa-envelope"] {
     height: 3px;
     position: absolute;
     left: 50%;
-    bottom: 10%;
+    bottom: 0;
     animation: MoveUpDown 2.2s linear infinite;
 }
 
@@ -384,10 +383,10 @@ footer i[class="far fa-envelope"] {
 
 @keyframes MoveUpDown {
     0%, 100% {
-        bottom: 80px;
+        bottom: 45px;
     }
     50% {
-        bottom: 105px;
+        bottom: 70px;
     }
 }
 

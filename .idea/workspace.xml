@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/img/projet-maelle.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/projet-maelle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon flêche bas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +85,9 @@
       <workItem from="1607790631927" duration="9542000" />
       <workItem from="1607811054602" duration="1629000" />
       <workItem from="1607813614121" duration="107000" />
-      <workItem from="1607864105463" duration="13718000" />
-    </task>
-    <task id="LOCAL-00006" summary="Modifs nav">
-      <created>1606671480615</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1606671480615</updated>
+      <workItem from="1607864105463" duration="14353000" />
+      <workItem from="1607893556389" duration="630000" />
+      <workItem from="1607944497784" duration="1324000" />
     </task>
     <task id="LOCAL-00007" summary="Typo: px en rem">
       <created>1606672163627</created>
@@ -427,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607882305028</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="fix projets">
+      <created>1607891098292</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1607891098292</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,10 +492,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607882311104">
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2" timestamp="1607891105236">
       <screen x="-1080" y="0" width="1080" height="1920" />
     </state>
-    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607882311104" />
+    <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607891105236" />
     <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1607802684366" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>

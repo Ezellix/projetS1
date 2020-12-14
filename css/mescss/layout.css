@@ -69,7 +69,7 @@ header p {
 .premiere-page {
     background: url("../../img/hermessage.jpg") no-repeat 87% 100%;
     background-size: cover;
-    padding: 50px 0 150px;
+    padding: 50px 0 0;
 }
 
 .premiere-page h1 {
@@ -359,26 +359,17 @@ footer i[class="far fa-envelope"] {
     font-size: 2.5rem;
 }
 
-.fleche-bas, .fleche-bas::before {
-    content: "";
-    background-color: white;
-    width: 10%;
-    height: 3px;
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    animation: MoveUpDown 2.2s linear infinite;
-}
-
-.fleche-bas::before {
-    width: 100%;
-    transform: rotate(90deg);
-    top: 18px;
-    left: 18px;
-}
-
 .fleche-bas {
-    transform: rotate(135deg);
+    position: relative;
+}
+
+.fleche-bas::after {
+    content: url("../../img/icon flêche bas.png");
+    margin-left: -40px;
+    position: absolute;
+    display: block;
+    animation: MoveUpDown 2.2s linear infinite;
+    left: 50%;
 }
 
 @keyframes MoveUpDown {

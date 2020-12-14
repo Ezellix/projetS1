@@ -23,8 +23,8 @@ h1 {
     font-size: 4.5rem;
     font-weight: bold;
     line-height: 5.3rem;
-    border-bottom: white solid 1px;
-    margin: 0 15px 30px;
+    border-bottom: white solid 0.1rem;
+    margin: 0 1.5rem 3rem;
 }
 
 .premiere-page p:first-of-type {
@@ -91,13 +91,13 @@ li {
     font-size: 4.7rem;
     line-height: 5.8rem;
     color: #5EA5A1;
-    border-bottom: #5EA5A1 solid 2px;
+    border-bottom: #5EA5A1 solid 0.2rem;
     justify-content: center;
 }
 
 .articles p, .article-scientifique p {
-    font-size: 16px;
-    line-height: 30px;
+    font-size: 1.6rem;
+    line-height: 3rem;
     color: white;
 }
 
@@ -107,7 +107,7 @@ li {
 
 .legend>p {
     color: #5EA5A1;
-    border-bottom: #5EA5A1 solid 1px;
+    border-bottom: #5EA5A1 solid 0.1rem;
 }
 
 .annexe {
@@ -131,7 +131,7 @@ li {
     font-size: 4.2rem;
     line-height: 5.2rem;
     font-weight: bold;
-    border-bottom: #5EA5A1 solid 2px;
+    border-bottom: #5EA5A1 solid 0.2rem;
 }
 
 .autres-projets p {
@@ -143,7 +143,7 @@ blockquote {
     font-size: 2.5rem;
     font-style: italic;
     color: white;
-    padding: 20px;
+    padding: 2rem;
     font-weight: bold;
     text-align: center;
 }
@@ -160,7 +160,7 @@ header {
 }
 
 .menu li {
-    border-bottom: #5EA5A1 solid 1px;
+    border-bottom: #5EA5A1 solid 0.1rem;
 }
 
 .menu-lien-secondaire {
@@ -168,7 +168,7 @@ header {
 }
 
 .article-suivant {
-    padding: 1px;
+    padding: 0.1rem;
     font-size: 2rem;
     text-align: center;
     font-weight: bold;
@@ -184,7 +184,7 @@ header {
 
 .annexe.contact p:last-of-type {
     font-size: 1.5rem;
-    padding-bottom: 25px;
+    padding-bottom: 2.5rem;
     margin-bottom: 0;
     font-style: italic;
 }
@@ -201,15 +201,15 @@ footer a {
 input[type=text] {
     background-color: #eeeeee;
     border: #eeeeee;
-    border-bottom: 1px solid white;
-    border-radius: 15px;
+    border-bottom: 0.1rem solid white;
+    border-radius: 1.5rem;
 }
 
 input[type=submit] {
     background-color: #161616;
     color: white;
-    border: 2px solid white;
-    border-radius: 4px;
+    border: 0.2rem solid white;
+    border-radius: 0.4rem;
 }
 
 .carousel {
@@ -233,5 +233,5 @@ input[type=submit] {
 }
 
 .contrast {
-    text-shadow: 1px 1px 10px #3D332D;
+    text-shadow: 0.1rem 0.1rem 1rem #3D332D;
 }

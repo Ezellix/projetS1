@@ -9,13 +9,13 @@ main img {
 }
 
 .articles, .annexe {
-    padding-bottom: 70px;
+    padding-bottom: 7rem;
 }
 
 header {
     width: 100%;
     position: fixed;
-    padding: 4px 0 0 4px;
+    padding: 0.4rem 0 0 0.4rem;
     top: 0;
     z-index: 2;
 }
@@ -25,11 +25,11 @@ video {
 }
 
 body {
-    padding-top: 30px;
+    padding-top: 3rem;
 }
 
 h1, p, h2, h3, h4 {
-    padding: 4px 6px 0;
+    padding: 0.4rem 0.6rem 0;
 }
 
 header img {
@@ -39,16 +39,16 @@ header img {
 header p {
     position: absolute;
     top: 0;
-    left: 75px;
+    left: 7.5rem;
     padding: 0;
 }
 
 .menu {
-    margin-top: 58px;
+    margin-top: 5.8rem;
 }
 
 .menu-lien-principal {
-    padding: 30px 0;
+    padding: 3rem 0;
     margin: 0;
 }
 
@@ -63,31 +63,31 @@ header p {
 }
 
 .menu-lien-secondaire {
-    padding: 10px 0;
+    padding: 1rem 0;
 }
 
 .premiere-page {
     background: url("../../img/hermessage.jpg") no-repeat 87% 100%;
     background-size: cover;
-    padding: 50px 0 0;
+    padding: 5rem 0 0;
 }
 
 .premiere-page h1 {
     margin-top: 0;
-    padding-bottom: 40px;
+    padding-bottom: 4rem;
 }
 
 .premiere-page p:first-of-type {
-    margin: 40px 25px;
-    padding: 5px 20px;
+    margin: 4rem 2.5rem;
+    padding: 0.5rem 2rem;
 }
 
 .premiere-page h2 {
-    margin: 30px 20px;
+    margin: 3rem 2rem;
 }
 
 .premiere-page p:last-of-type {
-    padding: 5px 33px;
+    padding: 0.5rem 3.3rem;
 }
 
 .articles-accueil-her {
@@ -108,7 +108,7 @@ footer p:last-of-type {
 
 footer p:first-of-type {
     margin-top: 0;
-    padding-bottom: 10px;
+    padding-bottom: 1rem;
 }
 
 .accueil {
@@ -117,18 +117,18 @@ footer p:first-of-type {
 
 .vignette {
     background-size: cover;
-    padding-top: 10px;
-    padding-bottom: 85px;
-    border-top: #323232 solid 10px;
+    padding-top: 1rem;
+    padding-bottom: 8.5rem;
+    border-top: #323232 solid 1rem;
 }
 
 .vignette:last-of-type {
-    border-bottom: #323232 solid 10px;
+    border-bottom: #323232 solid 1rem;
 }
 
 .articles h1 {
-    padding: 20px 0 10px;
-    margin-bottom: 50px;
+    padding: 2rem 0 1rem;
+    margin-bottom: 5rem;
     text-align: center;
 }
 
@@ -183,12 +183,12 @@ footer p:first-of-type {
 }
 
 .solutions {
-    padding: 35px 20px;
-    margin: 40px 0;
+    padding: 3.5rem 2rem;
+    margin: 4rem 0;
 }
 
 .legend p {
-    margin-top: -2px;
+    margin-top: -0.2rem;
 }
 
 .indent {
@@ -196,7 +196,7 @@ footer p:first-of-type {
 }
 
 .article-solution img:nth-of-type(2) {
-    padding-bottom: 2px;
+    padding-bottom: 0.2rem;
     display: block;
     margin: 0 auto;
 }
@@ -206,8 +206,8 @@ video {
 }
 
 article h1 {
-    margin-left: 58px;
-    margin-right: 58px;
+    margin-left: 5.8rem;
+    margin-right: 5.8rem;
 }
 
 .vignette h2 {
@@ -218,7 +218,7 @@ article h1 {
     content: url("../../img/icon flêche blanc.png");
     position: absolute;
     display: block;
-    padding-top: 30px;
+    padding-top: 3rem;
     animation: MoveLeftRight 3s linear infinite;
 }
 
@@ -229,18 +229,18 @@ article h1 {
 }
 
 .article-scientifique h1 {
-    margin-left: 10px;
+    margin-left: 1rem;
 }
 
 .article-scientifique p:nth-of-type(1), .article-scientifique p:nth-of-type(2) {
     text-align: right;
-    padding: 0 10px 0 0;
+    padding: 0 1rem 0 0;
     margin: 0;
     font-style: italic;
 }
 
 .article-scientifique p:nth-of-type(3) {
-    margin-top: 60px;
+    margin-top: 6rem;
 }
 
 .article-scientifique p:last-of-type {
@@ -248,16 +248,16 @@ article h1 {
 }
 
 label {
-    margin: 5px auto;
+    margin: 0.5rem auto;
     font-size: 1.8rem;
     font-weight: bold;
-    padding-left: 5px;
+    padding-left: 0.5rem;
 }
 
 [type="submit"] {
     display: block;
-    padding: 5px 15px;
-    margin: 5px auto;
+    padding: 0.5rem 1.5rem;
+    margin: 0.5rem auto;
     font-size: 2rem;
 }
 
@@ -267,48 +267,48 @@ label {
 
 .article-suivant {
     background-color: #323232;
-    box-shadow: 0 2px 10px 1px #161616;
+    box-shadow: 0 0.2rem 1rem 0.1rem #161616;
 }
 
 footer {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     position: relative;
 }
 
 input[type=text] {
     width: 90%;
-    margin-top: 15px;
-    margin-bottom: 25px;
-    margin-left: 8px;
-    font-size: 18px;
-    padding-left: 15px;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+    margin-left: 0.8rem;
+    font-size: 1.8rem;
+    padding-left: 1.5rem;
 }
 
 textarea {
     display: block;
-    margin: 15px auto 25px;
-    padding-left: 15px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 10px;
-    border: 1px solid #eeeeee;
-    font-size: 18px;
+    margin: 1.5rem auto 2.5rem;
+    padding-left: 1.5rem;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    border-radius: 1rem;
+    border: 0.1rem solid #eeeeee;
+    font-size: 1.8rem;
 }
 
 form {
-    padding-top: 10px;
-    margin-top: 45px;
+    padding-top: 1rem;
+    margin-top: 4.5rem;
 }
 
 .carousel {
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     padding: 2rem 0 0.1rem 0;
 }
 
 .carousel h2, .carousel p {
     margin: 0;
-    padding-bottom: 10px;
+    padding-bottom: 1rem;
 }
 
 .carousel ul {
@@ -338,7 +338,7 @@ form {
 }
 
 ::-webkit-scrollbar {
-    height: 2px;
+    height: 0.2rem;
 }
 
 footer span {
@@ -365,7 +365,7 @@ footer i[class="far fa-envelope"] {
 
 .fleche-bas::after {
     content: url("../../img/icon flêche bas.png");
-    margin-left: -40px;
+    margin-left: -4rem;
     position: absolute;
     display: block;
     animation: MoveUpDown 2.2s linear infinite;
@@ -374,10 +374,10 @@ footer i[class="far fa-envelope"] {
 
 @keyframes MoveUpDown {
     0%, 100% {
-        bottom: 30px;
+        bottom: 3rem;
     }
     50% {
-        bottom: 45px;
+        bottom: 4.5rem;
     }
 }
 
@@ -396,38 +396,38 @@ footer i[class="far fa-envelope"] {
 .legend img, .legend video {
     display: block;
     margin: 0 auto;
-    padding-top: 10px;
-    border-left: #323232 10px solid;
-    border-right: #323232 10px solid;
+    padding-top: 1rem;
+    border-left: #323232 1rem solid;
+    border-right: #323232 1rem solid;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
 
 .legend {
-    margin: 40px 0;
-    box-shadow: 0 2px 10px 1px #161616;
+    margin: 4rem 0;
+    box-shadow: 0 0.2rem 1rem 0.1rem #161616;
 }
 
 .annexe .carousel {
-    margin-top: 60px;
+    margin-top: 6rem;
 }
 
 .annexe .carousel li {
-    padding: 10px;
+    padding: 1rem;
 }
 
 .annexe .carousel p {
-    padding-bottom: 15px;
+    padding-bottom: 1.5rem;
 }
 
 .annexe .carousel img {
     display: block;
     margin: auto;
-    height: 150px;
+    height: 15rem;
     width: auto;
     vertical-align: middle;
 }
 
 .annexe.contact {
-    padding-bottom: 25px;
+    padding-bottom: 2.5rem;
 }

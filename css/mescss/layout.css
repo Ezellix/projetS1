@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 html, header {
     max-width: 812px;
     margin: auto;

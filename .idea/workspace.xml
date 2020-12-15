@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="" />
+    <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/her.html" beforeDir="false" afterPath="$PROJECT_DIR$/her.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution.html" beforeDir="false" afterPath="$PROJECT_DIR$/pollution.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,13 +92,7 @@
       <workItem from="1607946921755" duration="672000" />
       <workItem from="1607958043164" duration="687000" />
       <workItem from="1608025580398" duration="441000" />
-    </task>
-    <task id="LOCAL-00010" summary="réagencement menu">
-      <created>1606674105154</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1606674105154</updated>
+      <workItem from="1608036005872" duration="598000" />
     </task>
     <task id="LOCAL-00011" summary="menu toggle">
       <created>1606675901495</created>
@@ -430,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608025884654</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="mise à jour lien projet">
+      <created>1608036274650</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1608036274650</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +457,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="mise à jour h3 h4" />
     <MESSAGE value="fix formulaire" />
     <MESSAGE value="champs obligatoires formulaire" />
     <MESSAGE value="Ajout meta description + keywords" />
@@ -475,7 +481,8 @@
     <MESSAGE value="fix fleche accueil" />
     <MESSAGE value="px en rem" />
     <MESSAGE value="fix fleche" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix fleche" />
+    <MESSAGE value="mise à jour lien projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="mise à jour lien projet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">

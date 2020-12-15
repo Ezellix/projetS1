@@ -212,21 +212,21 @@ input[type=submit] {
     border-radius: 0.4rem;
 }
 
-.carousel {
+.carrousel {
     background-color: #323232;
     color: white;
 }
 
-.carousel p {
+.carrousel p {
     font-size: 1.5rem;
 }
 
-.autres-projets .carousel p {
+.autres-projets .carrousel p {
     font-size: 2rem;
     text-align: center;
 }
 
-.autres-projets .carousel {
+.autres-projets .carrousel {
     background-color: #161616;
     color: #5EA5A1;
     font-weight: bold;

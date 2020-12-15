@@ -305,29 +305,31 @@ form {
     margin-top: 4.5rem;
 }
 
-.carousel {
+.carrousel {
     margin-bottom: 2rem;
     padding: 2rem 0 0.1rem 0;
 }
 
-.carousel h2, .carousel p {
+.carrousel h2, .carrousel p {
     margin: 0;
     padding-bottom: 1rem;
 }
 
-.carousel ul {
+.carrousel ul {
     padding: 0;
     display: flex;
     overflow-x: scroll;
+    overflow-y: hidden;
     scroll-snap-type: x mandatory;
 }
 
-.carousel img {
-    max-width: 100%;
-    height: auto;
+.carrousel img {
+    width: auto;
+    height: 33rem;
+    margin-bottom: 2rem;
 }
 
-.carousel li {
+.carrousel li {
     flex: 1 0 22rem;
     margin-right: 1.8rem;
     scroll-snap-align: center;
@@ -412,19 +414,19 @@ footer i[class="far fa-envelope"] {
     box-shadow: 0 0.2rem 1rem 0.1rem #161616;
 }
 
-.annexe .carousel {
+.annexe .carrousel {
     margin-top: 6rem;
 }
 
-.annexe .carousel li {
+.annexe .carrousel li {
     padding: 1rem;
 }
 
-.annexe .carousel p {
+.annexe .carrousel p {
     padding-bottom: 1.5rem;
 }
 
-.annexe .carousel img {
+.annexe .carrousel img {
     display: block;
     margin: auto;
     height: 15rem;

@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,14 +93,7 @@
       <workItem from="1608042545768" duration="588000" />
       <workItem from="1608043334084" duration="112000" />
       <workItem from="1608043685079" duration="164000" />
-      <workItem from="1608044559358" duration="3961000" />
-    </task>
-    <task id="LOCAL-00018" summary="simplification indent">
-      <created>1606688651050</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1606688651050</updated>
+      <workItem from="1608044559358" duration="4672000" />
     </task>
     <task id="LOCAL-00019" summary="Ajout icone onglet de navigation">
       <created>1606988254412</created>
@@ -439,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608048191432</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="fix site sarah">
+      <created>1608049181613</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1608049181613</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,7 +458,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix contrast &lt;a&gt;" />
     <MESSAGE value="modif légendes" />
     <MESSAGE value="interview" />
     <MESSAGE value="display desktop" />
@@ -484,7 +482,8 @@
     <MESSAGE value="fix orthographe carrousel" />
     <MESSAGE value="réorganisation projets" />
     <MESSAGE value="fix logos" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix logos" />
+    <MESSAGE value="fix site sarah" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix site sarah" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">
@@ -499,11 +498,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="626" y="364" key="Vcs.Push.Dialog.v2" timestamp="1608048195143">
+    <state x="626" y="364" key="Vcs.Push.Dialog.v2" timestamp="1608049230262">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607946475276" />
-    <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1608048195143" />
+    <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1608049230262" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>
 </project>

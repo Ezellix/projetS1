@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ecb2f83-a5d8-4d24-be8e-7c4896f6d135" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres-projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres-projets.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +91,10 @@
       <workItem from="1608025580398" duration="441000" />
       <workItem from="1608036005872" duration="795000" />
       <workItem from="1608042110419" duration="300000" />
-      <workItem from="1608042545768" duration="410000" />
-    </task>
-    <task id="LOCAL-00015" summary="menu fixe">
-      <created>1606684526073</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1606684526073</updated>
+      <workItem from="1608042545768" duration="588000" />
+      <workItem from="1608043334084" duration="112000" />
+      <workItem from="1608043685079" duration="164000" />
+      <workItem from="1608044559358" duration="1955000" />
     </task>
     <task id="LOCAL-00016" summary="text-indent sur les 1ers paragraphes">
       <created>1606685846311</created>
@@ -436,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608042353757</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="fix orthographe carrousel">
+      <created>1608043121670</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1608043121670</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +459,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="carousel" />
     <MESSAGE value="mise à jour autres projets" />
     <MESSAGE value="font awesome pour mail + insta" />
     <MESSAGE value="fix contrast &lt;a&gt;" />
@@ -481,7 +483,8 @@
     <MESSAGE value="modif noms onglets" />
     <MESSAGE value="fix strong" />
     <MESSAGE value="fix autres projets sarah" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix autres projets sarah" />
+    <MESSAGE value="fix orthographe carrousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix orthographe carrousel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-826" y="762" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607449555275">
@@ -496,11 +499,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1606683034095" />
-    <state x="626" y="364" key="Vcs.Push.Dialog.v2" timestamp="1608042359936">
+    <state x="626" y="364" key="Vcs.Push.Dialog.v2" timestamp="1608043127797">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="-816" y="485" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@-1080.0.1080.1920" timestamp="1607946475276" />
-    <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1608042359936" />
+    <state x="626" y="364" key="Vcs.Push.Dialog.v2/-1080.0.1080.1920/0.0.2560.1440@0.0.2560.1440" timestamp="1608043127797" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606688655629" />
   </component>
 </project>
